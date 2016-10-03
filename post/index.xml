@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site </title>
-    <link>http://www.iethpay.com/post/</link>
+    <link>http://lightning-li.github.io/bookshelf/post/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>good to greate</title>
-          <link>http://www.iethpay.com/post/good-to-greate/</link>
+          <link>http://lightning-li.github.io/bookshelf/post/good-to-greate/</link>
           <pubDate>Mon, 03 Oct 2016 10:33:45 CST</pubDate>
           <author></author>
-          <guid>http://www.iethpay.com/post/good-to-greate/</guid>
+          <guid>http://lightning-li.github.io/bookshelf/post/good-to-greate/</guid>
           <description>
 
 &lt;h3 id=&#34;good-to-greate&#34;&gt;Good to Greate&lt;/h3&gt;
